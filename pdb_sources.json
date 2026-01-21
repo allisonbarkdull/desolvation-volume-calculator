@@ -2,16 +2,13 @@
 {
   "description": "PDB file sources and paths",
   "sources": {
-      "lilac_db_no_solvent": [
-        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/1kfy/pre_prepare_receptor_outputs/1_5_final.pdb",
-        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/1nen/pre_prepare_receptor_outputs/1_5_final.pdb",
-        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/1sqb/pre_prepare_receptor_outputs/1_5_final.pdb",
-        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/1sqp/pre_prepare_receptor_outputs/1_5_final.pdb",
-        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/2bns/pre_prepare_receptor_outputs/1_5_final.pdb"
+      "popc": [
+        "test_pdbs/popc.pdb",
       ],
-      "lilac_db_prepared_system": [
-        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/4phu/pre_prepare_receptor_outputs/md/sys_minim.pdb",
-        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/1l0l/pre_prepare_receptor_outputs/md/sys_minim.pdb"
+      "proteins": [
+        "test_pdbs/alanine-dipeptide.pdb",
+        "test_pdbs/1ABQ.pdb",
+        "test_pdbs/2L3X.pdb"
       ]
   }
   ,
