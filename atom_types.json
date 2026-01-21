@@ -1,0 +1,115 @@
+{
+  "description": "Atom type definitions with SMARTS patterns and volumes",
+  "atom_types": {
+    "6_0": {
+      "smarts": "[#6;D0]",
+      "volume": 26.54,
+      "description": "Any carbon with 0 bonds"
+    },
+    "6_1": {
+      "smarts": "[#6;D1]",
+      "volume": 42.26,
+      "description": "Any carbon with 1 bond"
+    },
+    "6_2": {
+      "smarts": "[#6;D2]",
+      "volume": 25.35,
+      "description": "Any carbon with 2 bonds"
+    },
+    "6_3": {
+      "smarts": "[#6;D3]",
+      "volume": 7.64,
+      "description": "Any carbon with 3 bonds"
+    },
+    "6_4": {
+      "smarts": "[#6;D4]",
+      "volume": 2.33,
+      "description": "Any carbon with 4 bonds"
+    },
+    "7_0": {
+      "smarts": "[#7;D0]",
+      "volume": 21.85,
+      "description": "Any nitrogen with 0 bonds"
+    },
+    "7_1": {
+      "smarts": "[#7;D1]",
+      "volume": 25.50,
+      "description": "Any nitrogen with 1 bond"
+    },
+    "7_2": {
+      "smarts": "[#7;D2]",
+      "volume": 16.87,
+      "description": "Any nitrogen with 2 bonds"
+    },
+    "7_3": {
+      "smarts": "[#7;D3]",
+      "volume": 3.26,
+      "description": "Any nitrogen with 3 bonds"
+    },
+    "8_1": {
+      "smarts": "[#8;D1]",
+      "volume": 27.24,
+      "description": "Any oxygen with 1 bond"
+    },
+    "8_2": {
+      "smarts": "[#8;D2]",
+      "volume": 14.79,
+      "description": "Any oxygen with 2 bonds"
+    },
+    "9_1": {
+      "smarts": "[#9;D1]",
+      "volume": 21.28,
+      "description": "Fluorine with 1 bond"
+    },
+    "15_4": {
+      "smarts": "[#15;D4]",
+      "volume": 14.67,
+      "description": "Phosphorus with 4 bonds"
+    },
+    "16_0": {
+      "smarts": "[#16;D0]",
+      "volume": 27.35,
+      "description": "Any sulfur with 0 bonds"
+    },
+    "16_1": {
+      "smarts": "[#16;D1]",
+      "volume": 42.63,
+      "description": "Any sulfur with 1 bond"
+    },
+    "16_2": {
+      "smarts": "[#16;D2]",
+      "volume": 33.04,
+      "description": "Any sulfur with 2 bonds"
+    },
+    "16_3": {
+      "smarts": "[#16;D3]",
+      "volume": 15.07,
+      "description": "Any sulfur with 3 bonds"
+    },
+    "16_4": {
+      "smarts": "[#16;D4]",
+      "volume": 2.04,
+      "description": "Any sulfur with 4 bonds"
+    },
+    "17_1": {
+      "smarts": "[#17;D1]",
+      "volume": 38.84,
+      "description": "Chlorine with 1 bond"
+    },
+    "35_1": {
+      "smarts": "[#35;D1]",
+      "volume": 44.40,
+      "description": "Bromine with 1 bond"
+    },
+    "53_1": {
+      "smarts": "[#53;D1]",
+      "volume": 51.58,
+      "description": "Iodine with 1 bond"
+    },
+    "H": {
+      "smarts": "[H]",
+      "volume": 0.00,
+      "description": "Hydrogen"
+    }
+  }
+}

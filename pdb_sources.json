@@ -1,0 +1,29 @@
+
+{
+  "description": "PDB file sources and paths",
+  "sources": {
+      "lilac_db_no_solvent": [
+        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/1kfy/pre_prepare_receptor_outputs/1_5_final.pdb",
+        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/1nen/pre_prepare_receptor_outputs/1_5_final.pdb",
+        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/1sqb/pre_prepare_receptor_outputs/1_5_final.pdb",
+        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/1sqp/pre_prepare_receptor_outputs/1_5_final.pdb",
+        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/2bns/pre_prepare_receptor_outputs/1_5_final.pdb"
+      ],
+      "lilac_db_prepared_system": [
+        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/4phu/pre_prepare_receptor_outputs/md/sys_minim.pdb",
+        "/gpfs/home/abarkdull/Forli/Manually_Prepared_Dataset/LILAC_DB_Non_Redundant/1l0l/pre_prepare_receptor_outputs/md/sys_minim.pdb"
+      ]
+  }
+  ,
+  "custom_templates": {
+    "sdf_templates": [
+
+    ],
+    "smiles_templates": [
+      {
+        "resname": "POP",
+        "smiles": "CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C\\CCCCCCCC"
+      }
+    ]
+  }
+}
